@@ -30,12 +30,12 @@ public class arrays {
 		}
 		// lista text prima metoda
 		/*
-		 * String[] words = { "caca", "maca", "pupu" };
+		 * String[] words = { "word1", "word2", "word3" };
 		 * 
 		 * for (int i = 0; i < words.length; i++) { System.out.println(words[i]); }
 		 */
 		// a doua metoda mai simpla
-		String[] words = { "caca", "maca", "pupu" };
+		String[] words = { "word1", "word2", "word3" };
 
 		for (String word : words) {
 			System.out.println(words);
